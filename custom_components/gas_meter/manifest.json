@@ -1,5 +1,5 @@
 {
-    "domain": "gas_meter",
+    "domain": "virtual_gas_meter",
     "name": "Virtual Gas Meter",
     "integration_type": "helper",
     "config_flow": true,
