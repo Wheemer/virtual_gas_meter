@@ -1,6 +1,6 @@
 """Constants for the Virtual Gas Meter integration."""
 
-DOMAIN = "gas_meter"
+DOMAIN = "virtual_gas_meter"
 CONF_BOILER_ENTITY = "boiler_entity"
 CONF_BOILER_AVERAGE = "boiler_average"
 CONF_LATEST_GAS_DATA = "latest_gas_data"
